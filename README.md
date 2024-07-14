@@ -2,56 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Ammar Ahmed Kiani - Software Engineer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f4f4f9;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 20px;
-    }
-    .card {
-      background: #fff;
-      border-radius: 8px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      margin: 20px;
-      padding: 20px;
-      text-align: left;
-    }
-    .center {
-      display: flex;
-      justify-content: center;
-      flex-wrap: wrap;
-    }
-    .logo img, .coding img {
-      border-radius: 8px;
-      margin: 10px 0;
-    }
-    .profile-img {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-      margin: 0 auto;
-      display: block;
-    }
-    .social-icons a {
-      margin: 0 10px;
-      display: inline-block;
-    }
-    .language-icons a {
-      margin: 10px;
-    }
-    .stats {
-      margin-top: 30px;
-    }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"
 </head>
 <body>
   <div class="container">
