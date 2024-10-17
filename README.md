@@ -32,8 +32,8 @@
         <p>🔭 I've Worked on <a href="https://brokee.io/">Brokiee.io, Core-Direction, WCare.jp</a></p>
       </div>
       <div class="card">
-        <h3>Looking for Help</h3>
-        <p>🤝 I’m looking for help with <a href="https://e-votting.netlify.app/">E-voting</a></p>
+        <h3>Looking for Help ? </h3>
+        <p>🤝 I Reach me out for my asstance: email me at ammarkiani30@gmail.com</p>
       </div>
       <div class="card">
         <h3>Ask Me About</h3>
