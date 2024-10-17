@@ -33,7 +33,7 @@
       </div>
       <div class="card">
         <h3>Looking for Help ? </h3>
-        <p>🤝 I Reach me out for my asstance: email me at ammarkiani30@gmail.com</p>
+        <p>🤝 I Reach me out for my assistance: email me at ammarkiani30@gmail.com</p>
       </div>
       <div class="card">
         <h3>Ask Me About</h3>
