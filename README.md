@@ -28,10 +28,6 @@
         <p>🔭 I’m currently working on <a href="https://metricswatch.com/">Metrics Watch</a></p>
       </div>
       <div class="card">
-        <h3>Learning</h3>
-        <p>🌱 I’m currently learning <strong>Python, Architecture and Pattern, System designing</strong></p>
-      </div>
-      <div class="card">
         <h3>Previous Work</h3>
         <p>🔭 I've Worked on <a href="https://brokee.io/">Brokiee.io, Core-Direction, WCare.jp</a></p>
       </div>
