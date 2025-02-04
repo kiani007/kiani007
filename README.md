@@ -32,14 +32,6 @@
         <h3>Contact</h3>
         <p>📫 How to reach me <strong>ammarkiani30@gmail.com</strong></p>
       </div>
-      <div class="card">
-        <h3>My Experiences</h3>
-        <p>📄 Know about my experiences <a href="https://bold.pro/my/ammar-ahmed-kiani">here</a></p>
-      </div>
-      <div class="card">
-        <h3>Fun Fact</h3>
-        <p>⚡ Fun fact <strong>Never lose your hope, one day you will die :D</strong></p>
-      </div>
     </div>
     <h3>Connect with me:</h3>
     <div class="social-icons">
