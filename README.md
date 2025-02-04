@@ -6,11 +6,8 @@
 </head>
 <body>
   <div class="container">
-    <div class="logo">
-      <img src="https://github.com/kiani007/kiani007/blob/main/ammar-codify.gif" alt="logo">
-    </div>
     <h1>Hi 👋, I'm Ammar Ahmed Kiani, a Software Engineer</h1>
-    <h3>Passionate about Learning, problem solving and Expertise in MERN stack Development!</h3>
+    <h3>Passionate about Learning, problem-solving and Expertise in Fullstack Development!</h3>
     <div class="coding">
       <img src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" alt="coding" width="400">
     </div>
@@ -23,14 +20,6 @@
       </a>
     </p>
     <div class="center">
-      <div class="card">
-        <h3>Current Work</h3>
-        <p>🔭 I’m currently working on <a href="https://metricswatch.com/">Metrics Watch</a></p>
-      </div>
-      <div class="card">
-        <h3>Previous Work</h3>
-        <p>🔭 I've Worked on <a href="https://brokee.io/">Brokiee.io, Core-Direction, WCare.jp</a></p>
-      </div>
       <div class="card">
         <h3>Looking for Help ? </h3>
         <p>🤝 I Reach me out for my assistance: email me at ammarkiani30@gmail.com</p>
